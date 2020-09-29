@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class sort
 {
     public static void main(String[] args) 
-    {//
+    {
     	int count, temp;
         Scanner scan = new Scanner(System.in);
         count = scan.nextInt();
